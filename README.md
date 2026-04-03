@@ -1,1 +1,3 @@
 rep with ml course in my university
+(small ml course with only linear models)
+i'm very tired today...
